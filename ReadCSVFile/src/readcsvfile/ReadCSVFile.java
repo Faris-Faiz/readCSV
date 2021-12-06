@@ -12,6 +12,9 @@ import javax.swing.JOptionPane;
 /**
  *
  * @author Faris Faiz
+ * 
+ * ikhmal is the source of our problems
+ *
  * Tasneem
  */
 public class ReadCSVFile {
