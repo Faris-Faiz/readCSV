@@ -13,6 +13,7 @@ import javax.swing.JOptionPane;
  *
  * @author Faris Faiz
  * Tasneem
+ * Ikhmal
  */
 public class ReadCSVFile {
 
